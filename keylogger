@@ -1,3 +1,4 @@
+# dependencies
 import time
 from pynput import keyboard
 from pygetwindow import getActiveWindow
