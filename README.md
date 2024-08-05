@@ -1,5 +1,5 @@
 # Locally stored Keylogger
-This Python script logs keystrokes and associates them with the currently active window. The keylogger records typed text, while tracking window changes to ensure logs are segmented by active windows. The script periodically logs typed text if there are no window changes within a defined interval. The keylogger stores the keyfile locally on the target system.
+This Python code logs keystrokes and associates them with the currently active window. The keylogger records typed text, while tracking window changes to ensure logs are segmented by active windows. The script periodically logs typed text if there are no window changes within a defined interval. The keylogger stores the keyfile locally on the target system.
 
 ## Dependencies:
 1. pynput
